@@ -15,3 +15,13 @@ Create Automated Pipeline that capture the data change(means when first time any
 
 ## Project Architecture
 ![alt text](https://raw.githubusercontent.com/aarav1203/Change-Data-Capture/main/Aws%20project.png)
+
+### Folder Structure
+Prefer to make separate bucket for input and output operation
+Input :- Bucket/Folder/File
+Output:- Bucket/Folder/File
+
+
+
+## Conclusion
+Any changes will made in database ,this will automatically detect and lambda will invoked glue job and after that load into s3 bucket
