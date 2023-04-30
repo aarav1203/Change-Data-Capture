@@ -14,4 +14,4 @@ Create Automated Pipeline that capture the data change(means when first time any
 5. Lambda
 
 ## Project Architecture
-Aws project.png
+![alt text](https://raw.githubusercontent.com/aarav1203/Change-Data-Capture/main/Aws%20project.png)
